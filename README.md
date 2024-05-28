@@ -5,7 +5,7 @@
 ## 基础设置
 
 1. 从https://github.com/open-mmlab/mmdetection/releases/tag/v3.0.0 下载mmdetection v3.0.0
-2. 根据https://mmdetection.readthedocs.io/en/latest/get_started.html 配置虚拟环境
+2. 根据https://mmdetection.readthedocs.io/en/latest/get_started.html 配置虚拟环境，并自行安装tensorboard
 3. 根据https://mmdetection.readthedocs.io/en/latest/user_guides/dataset_prepare.html 下载并解压VOC2007与VOC2012数据集
 
 ## 训练
